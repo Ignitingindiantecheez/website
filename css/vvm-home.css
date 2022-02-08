@@ -1,0 +1,55 @@
+body {
+  background-color: whitesmoke;
+}
+
+ h2 {
+  color: rgb(0, 202, 27);
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Trispace', sans-serif;
+  padding: 2%;
+  margin: 0;
+}
+
+#about-vvm p {
+  color: rgb(0, 0, 43);
+  padding: 0 2% 2% 2%;
+  margin: 0;
+}
+
+
+#vvm-levels p {
+  color: rgb(0, 174, 197);
+  padding: 0 2% 2% 2%;
+  margin: 0;
+}
+
+ol {
+  font-size: 1.25rem;
+  color:rgb(0, 0, 0);
+  
+}
+.btn {
+  border: 1px double black;
+}
+
+.float-img {
+  padding: 2%;
+}
+
+.different-font {
+  font-family: "Comic Sans MS", sans-serif;
+color: #005161;
+}
+
+a {
+  color: rgb(255, 255, 255);
+  
+}
+
+button {
+margin-bottom: 2%;
+
+}
+

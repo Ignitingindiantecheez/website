@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+body {
+ margin: 0 0 0 0;
+
+ font-family: 'Zen Kurenaido', sans-serif;
+ background-color: black;
+color: white;
+
+}
+
+.top-container {
+  background: linear-gradient(to bottom, #000099 0%, #6600cc 100%);
+
+
+ margin-bottom: 100px;
+ text-align: center;
+ position: relative;
+ padding: 1.25rem 0 0 0;
+ line-height: 3rem;
+
+
+}
+
+p {
+ font-size: 1.5rem;
+ color: #011257;
+ font-family: 'Dongle', sans-serif;
+ font-size: 2rem;
+ line-height: 0.8;
+}
+
+h1 {
+
+ font-family: "Comic Sans MS", sans-serif;
+ font-size: 3rem;
+ margin:0;
+ padding-top: 0.2rem;
+ padding-bottom: 0;
+ color: #03fc1c;}
+
+.subheading {
+ font-family: 'Trispace', sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ color: #00eeff;
+padding:0 0 1rem;
+margin-top: 2.5rem;}
+
+
+h2 {
+ font-family: 'Trispace', sans-serif;
+ font-size: 2.5rem;
+
+ line-height: 1;
+ color: #0006ba;
+margin: 60px 0;}
+
+
+h3 {
+ font-family: 'Trispace', sans-serif;
+ font-size: 1.5rem;
+ margin:0;
+ line-height: 1;
+ color: #11999E;
+
+}
+
+.book-name {
+line-height: 1.5;
+color: #00ba0c;
+}
+
+.fi {
+
+ border-radius: 50%;
+ width: 19%;
+ height: auto;
+ float: left;
+ margin-right: 30px;
+
+}
+.si {
+
+ border-radius: 50%;
+ width: 19%;
+ height: auto;
+ float: right;
+ margin-left: 30px;
+
+}
+
+
+
+.booktype-row { width: 65%;
+margin: 3rem;;
+text-align: left;
+line-height: 2;
+}
+
+hr {
+ color: yellow;
+ border: 0;
+ border-top: solid 13px;
+ border-style: dotted;
+ width: 10%;
+ margin: 2.4rem 0;
+}
+
+.bottom-container {
+
+ background-color: #66BFBF;
+ margin: 80px 0 0;
+ padding: 15px 0 15px;
+font-size: 1.5rem;
+}
+
+a:link {
+ color: #14396A;
+ text-decoration: none;
+}
+a:visited {
+ color: #14396A;
+ text-decoration: none;
+}
+a:hover {
+color: #14396A;
+text-decoration: none;
+}
+
+
+.navbar {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.top-container {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#title {
+    background-color: #fff;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.btn-success{
+  background-color: aquamarine;
+}
+.btn-success:hover{
+  background-color: rgb(0, 238, 159);
+}
+
+.bottom-container p{
+  color: #ffffff; 
+  font-size: 2.25rem; 
+  margin: auto;
+}

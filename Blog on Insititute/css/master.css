@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton:ital@1&family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.intro p {
+    font-family: 'Viga', sans-serif;
+    font-size: 1.125rem;
+    color: rgb(95, 95, 95);
+    line-height: 1.2;
+}
+
+.institute-body {
+    padding: 0 300px 0;
+}
+
+.intro h1 {
+text-align: center;
+font-family: 'Viga', sans-serif;
+}
+
+.intro .logo {
+    float: left;
+    padding: 0% 1% 1% 1%;
+    width: 150px;
+    height: auto;
+}
+
+/* table */
+
+table {
+    border: 1.25px solid black;
+}
+
+table caption {
+    text-align: center;
+}
+
+/* Research Content */
+h2 {
+    text-decoration: underline;
+}
+
+/* videos */
+
+iframe {
+    border: 2px solid black;
+}
+
+div {
+    padding: 0 2% 0;
+}
+p,ol,ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+}
+
+.imp-para {
+  text-decoration: underline;
+  font-weight: 450;
+}
+
+.d-block {
+    height: 250px;
+    width:  35%;
+    border-radius: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px double black;
+    margin-bottom: 10px;
+}
+
+.carousel-caption p{
+    background-color: black;
+    display: inline;
+}
